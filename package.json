@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "Eran Schwartz",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/eransc/egghead-react-boilerplate/issues"
   },
-  "homepage": "https://github.com/eransc/egghead-react-boilerplate#readme"
+  "homepage": "https://github.com/eransc/egghead-react-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
 }
