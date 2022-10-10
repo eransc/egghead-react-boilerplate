@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Eran Schwartz",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eransc/egghead-react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eransc/egghead-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/eransc/egghead-react-boilerplate#readme"
 }
